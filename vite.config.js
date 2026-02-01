@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base:"/SS-2/"
+  base:"/SS-2/",
 })
